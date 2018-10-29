@@ -12,12 +12,12 @@
 		<key>ZXingObjC-iOS.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>6</integer>
 		</dict>
 		<key>ZXingObjC-osx.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>4</integer>
 		</dict>
 		<key>ZXingObjCTests-iOS.xcscheme</key>
 		<dict>
