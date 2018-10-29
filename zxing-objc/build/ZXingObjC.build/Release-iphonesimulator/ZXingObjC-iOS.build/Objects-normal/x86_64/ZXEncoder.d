@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ios-Prefix.pch \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXEncoder.m \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXBitArray.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXBlockPair.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXByteMatrix.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXCharacterSetECI.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXECI.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXEncoder.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXEncodeHints.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXCompaction.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXDimensions.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXErrorCorrectionLevel.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXSymbolShapeHint.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXErrors.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/reedsolomon/ZXGenericGF.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXMaskUtil.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXMatrixUtil.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXMode.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXQRCodeVersion.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXQRCode.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/reedsolomon/ZXReedSolomonEncoder.h

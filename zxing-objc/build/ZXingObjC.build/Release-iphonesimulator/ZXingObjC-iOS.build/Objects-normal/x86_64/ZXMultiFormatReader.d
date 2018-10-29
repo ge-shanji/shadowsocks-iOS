@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ios-Prefix.pch \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXMultiFormatReader.m \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/aztec/ZXAztecReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXBinaryBitmap.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/ZXDataMatrixReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXDecodeHints.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXBarcodeFormat.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXErrors.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/maxicode/ZXMaxiCodeReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXMultiFormatOneDReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXOneDReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXMultiFormatReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/ZXPDF417Reader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/multi/ZXMultipleBarcodeReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXResult.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXResultMetadataType.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/ZXQRCodeReader.h

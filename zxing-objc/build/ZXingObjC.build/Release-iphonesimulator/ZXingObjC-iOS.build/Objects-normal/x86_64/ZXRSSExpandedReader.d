@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ios-Prefix.pch \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/ZXRSSExpandedReader.m \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAbstractExpandedDecoder.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXBitArray.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/ZXBitArrayBuilder.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXDataCharacter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXErrors.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/ZXExpandedPair.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/ZXExpandedRow.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXResult.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXBarcodeFormat.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXResultMetadataType.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/ZXRSSExpandedReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXAbstractRSSReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXOneDReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXReader.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXRSSFinderPattern.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXResultPoint.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXRSSUtils.h

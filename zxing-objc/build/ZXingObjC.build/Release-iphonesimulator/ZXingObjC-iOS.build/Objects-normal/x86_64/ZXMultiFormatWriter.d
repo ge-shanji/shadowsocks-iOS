@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ios-Prefix.pch \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXMultiFormatWriter.m \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/aztec/ZXAztecWriter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXWriter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXBarcodeFormat.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXBitMatrix.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCodaBarWriter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXOneDimensionalCodeWriter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCode39Writer.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCode128Writer.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/ZXDataMatrixWriter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXEAN8Writer.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCEANWriter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXEAN13Writer.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXErrors.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXITFWriter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXMultiFormatWriter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/ZXPDF417Writer.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXCompaction.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/ZXQRCodeWriter.h \
+  /Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCAWriter.h

@@ -1,0 +1,1132 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/build/Release-iphonesimulator/ZXingObjCHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ZXAI013103decoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAI013103decoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAI01320xDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAI01320xDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAI01392xDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAI01392xDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAI01393xDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAI01393xDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAI013x0x1xDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAI013x0x1xDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAI013x0xDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAI013x0xDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAI01AndOtherAIs.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAI01AndOtherAIs.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAI01decoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAI01decoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAI01weightDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAI01weightDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXASCIIEncoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXASCIIEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAbstractDoCoMoResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXAbstractDoCoMoResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAbstractExpandedDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAbstractExpandedDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAbstractRSSReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXAbstractRSSReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAddressBookAUResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXAddressBookAUResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAddressBookDoCoMoResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXAddressBookDoCoMoResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAddressBookParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXAddressBookParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAlignmentPattern.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/detector/ZXAlignmentPattern.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAlignmentPatternFinder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/detector/ZXAlignmentPatternFinder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAnyAIDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXAnyAIDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAztecCode.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/aztec/encoder/ZXAztecCode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAztecDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/aztec/decoder/ZXAztecDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAztecDetector.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/aztec/detector/ZXAztecDetector.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAztecDetectorResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/aztec/ZXAztecDetectorResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAztecEncoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/aztec/encoder/ZXAztecEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAztecReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/aztec/ZXAztecReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXAztecWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/aztec/ZXAztecWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBarcodeFormat.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXBarcodeFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBarcodeMatrix.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXBarcodeMatrix.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBarcodeRow.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXBarcodeRow.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBase256Encoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXBase256Encoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBinarizer.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXBinarizer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBinaryBitmap.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXBinaryBitmap.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBitArray.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXBitArray.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBitArrayBuilder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/ZXBitArrayBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBitMatrix.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXBitMatrix.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBitSource.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXBitSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBizcardResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXBizcardResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBlockPair.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXBlockPair.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBlockParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXBlockParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXBookmarkDoCoMoResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXBookmarkDoCoMoResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXByQuadrantReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/multi/ZXByQuadrantReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXByteMatrix.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXByteMatrix.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXC40Encoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXC40Encoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCGImageLuminanceSource.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/ZXCGImageLuminanceSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCalendarParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXCalendarParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCapture.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/ZXCapture.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCaptureDelegate.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/ZXCaptureDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCaptureView.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/ZXCaptureView.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCharacterSetECI.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXCharacterSetECI.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCodaBarReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCodaBarReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCodaBarWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCodaBarWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCode128Reader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCode128Reader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCode128Writer.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCode128Writer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCode39Reader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCode39Reader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCode39Writer.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCode39Writer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCode93Reader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXCode93Reader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCompaction.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXCompaction.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXCurrentParsingState.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXCurrentParsingState.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataCharacter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXDataCharacter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMask.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXDataMask.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixBitMatrixParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/decoder/ZXDataMatrixBitMatrixParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixDataBlock.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/decoder/ZXDataMatrixDataBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixDecodedBitStreamParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/decoder/ZXDataMatrixDecodedBitStreamParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/decoder/ZXDataMatrixDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixDetector.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/detector/ZXDataMatrixDetector.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixEncoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXDataMatrixEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixErrorCorrection.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXDataMatrixErrorCorrection.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/ZXDataMatrixReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixSymbolInfo144.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXDataMatrixSymbolInfo144.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixVersion.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/decoder/ZXDataMatrixVersion.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDataMatrixWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/ZXDataMatrixWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDecodeHints.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXDecodeHints.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDecodedChar.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXDecodedChar.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDecodedInformation.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXDecodedInformation.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDecodedNumeric.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXDecodedNumeric.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDecodedObject.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXDecodedObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDecoderResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXDecoderResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDefaultGridSampler.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXDefaultGridSampler.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDefaultPlacement.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXDefaultPlacement.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDetectorResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXDetectorResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDimension.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXDimension.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXDimensions.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXDimensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEAN13Reader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXEAN13Reader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEAN13Writer.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXEAN13Writer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEAN8Reader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXEAN8Reader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEAN8Writer.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXEAN8Writer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEANManufacturerOrgSupport.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXEANManufacturerOrgSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXECI.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXECI.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEdifactEncoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXEdifactEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEmailAddressParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXEmailAddressParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEmailAddressResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXEmailAddressResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEmailDoCoMoResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXEmailDoCoMoResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEncodeHints.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXEncodeHints.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEncoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXEncoderContext.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXEncoderContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXErrorCorrectionLevel.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXErrorCorrectionLevel.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXErrors.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXErrors.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXExpandedPair.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/ZXExpandedPair.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXExpandedProductParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXExpandedProductParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXExpandedProductResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXExpandedProductResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXExpandedRow.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/ZXExpandedRow.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXFieldParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXFieldParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXFinderPatternFinder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/detector/ZXFinderPatternFinder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXFinderPatternInfo.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/detector/ZXFinderPatternInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXFormatInformation.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXFormatInformation.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXGeneralAppIdDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/decoders/ZXGeneralAppIdDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXGenericGF.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/reedsolomon/ZXGenericGF.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXGenericGFPoly.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/reedsolomon/ZXGenericGFPoly.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXGenericMultipleBarcodeReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/multi/ZXGenericMultipleBarcodeReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXGeoParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXGeoParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXGeoResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXGeoResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXGlobalHistogramBinarizer.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXGlobalHistogramBinarizer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXGridSampler.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXGridSampler.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXHighLevelEncoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXHighLevelEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXHybridBinarizer.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXHybridBinarizer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXISBNParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXISBNParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXISBNResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXISBNResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXITFReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXITFReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXITFWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXITFWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXImage.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/ZXImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXInvertedLuminanceSource.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXInvertedLuminanceSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXLuminanceSource.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXLuminanceSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMaskUtil.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXMaskUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMathUtils.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/detector/ZXMathUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMatrixUtil.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXMatrixUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMaxiCodeBitMatrixParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/maxicode/decoder/ZXMaxiCodeBitMatrixParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMaxiCodeDecodedBitStreamParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecodedBitStreamParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMaxiCodeDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMaxiCodeReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/maxicode/ZXMaxiCodeReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMode.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXMode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXModulusGF.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ec/ZXModulusGF.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXModulusPoly.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ec/ZXModulusPoly.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMonochromeRectangleDetector.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/detector/ZXMonochromeRectangleDetector.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMultiDetector.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/multi/qrcode/detector/ZXMultiDetector.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMultiFinderPatternFinder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/multi/qrcode/detector/ZXMultiFinderPatternFinder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMultiFormatOneDReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXMultiFormatOneDReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMultiFormatReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXMultiFormatReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMultiFormatUPCEANReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXMultiFormatUPCEANReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMultiFormatWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXMultiFormatWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXMultipleBarcodeReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/multi/ZXMultipleBarcodeReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXOneDReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXOneDReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXOneDimensionalCodeWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXOneDimensionalCodeWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXPDF417.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417BarcodeMetadata.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeMetadata.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417BarcodeValue.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeValue.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417BoundingBox.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417BoundingBox.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417Codeword.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417Codeword.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417CodewordDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417CodewordDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417Common.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/ZXPDF417Common.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417DecodedBitStreamParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417DecodedBitStreamParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417DetectionResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417DetectionResultColumn.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultColumn.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417DetectionResultRowIndicatorColumn.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultRowIndicatorColumn.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417Detector.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/detector/ZXPDF417Detector.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417DetectorResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/detector/ZXPDF417DetectorResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417ECErrorCorrection.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ec/ZXPDF417ECErrorCorrection.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417ErrorCorrection.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXPDF417ErrorCorrection.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417HighLevelEncoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/encoder/ZXPDF417HighLevelEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417Reader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/ZXPDF417Reader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417ResultMetadata.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/ZXPDF417ResultMetadata.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417ScanningDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/decoder/ZXPDF417ScanningDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPDF417Writer.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/pdf417/ZXPDF417Writer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPair.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXPair.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXParsedResultType.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXParsedResultType.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPerspectiveTransform.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXPerspectiveTransform.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXPlanarYUVLuminanceSource.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXPlanarYUVLuminanceSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXProductParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXProductParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXProductResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXProductResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCode.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/encoder/ZXQRCode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeBitMatrixParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXQRCodeBitMatrixParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeDataBlock.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXQRCodeDataBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeDecodedBitStreamParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXQRCodeDecodedBitStreamParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXQRCodeDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeDetector.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/detector/ZXQRCodeDetector.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeFinderPattern.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/detector/ZXQRCodeFinderPattern.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeMultiReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/multi/qrcode/ZXQRCodeMultiReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/ZXQRCodeReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeVersion.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/decoder/ZXQRCodeVersion.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXQRCodeWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/qrcode/ZXQRCodeWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXRGBLuminanceSource.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXRGBLuminanceSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXRSS14Reader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXRSS14Reader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXRSSExpandedReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/expanded/ZXRSSExpandedReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXRSSFinderPattern.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXRSSFinderPattern.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXRSSUtils.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/rss/ZXRSSUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXReedSolomonDecoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/reedsolomon/ZXReedSolomonDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXReedSolomonEncoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/reedsolomon/ZXReedSolomonEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXResultMetadataType.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXResultMetadataType.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXResultPoint.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXResultPoint.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXResultPointCallback.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXResultPointCallback.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXSMSMMSResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXSMSMMSResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXSMSParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXSMSParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXSMSTOMMSTOResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXSMSTOMMSTOResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXSMTPResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXSMTPResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXStringUtils.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/ZXStringUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXSymbolInfo.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXSymbolInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXSymbolShapeHint.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXSymbolShapeHint.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXTelParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXTelParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXTelResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXTelResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXTextEncoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXTextEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXTextParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXTextParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXUPCAReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCAReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXUPCAWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCAWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXUPCEANExtension2Support.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCEANExtension2Support.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXUPCEANExtension5Support.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCEANExtension5Support.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXUPCEANExtensionSupport.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCEANExtensionSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXUPCEANReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCEANReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXUPCEANWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCEANWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXUPCEReader.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/oned/ZXUPCEReader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXURIParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXURIParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXURIResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXURIResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXURLTOResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXURLTOResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXVCardResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXVCardResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXVEventResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXVEventResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXView.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/ZXView.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXWhiteRectangleDetector.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/common/detector/ZXWhiteRectangleDetector.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXWifiParsedResult.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXWifiParsedResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXWifiResultParser.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/client/result/ZXWifiResultParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXWriter.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXX12Encoder.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/datamatrix/encoder/ZXX12Encoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZXingObjC.h",
+          'external-contents': "/Users/mac/Documents/Project/shadowsocks/zxing-objc/ZXingObjC/ZXingObjC.h"
+        }
+      ]
+    }
+  ]
+}

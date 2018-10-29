@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/mac/Documents/Project/shadowsocks/ShadowWeb/shadowsocks-Prefix.pch \
+  /Users/mac/Documents/Project/shadowsocks/ShadowWeb/ShadowsocksRunner.m \
+  /Users/mac/Documents/Project/shadowsocks/ShadowWeb/ShadowsocksRunner.h \
+  /Users/mac/Documents/Project/shadowsocks/ShadowWeb/local.h \
+  /Users/mac/Documents/Project/shadowsocks/ShadowWeb/libev/ev.h \
+  /Users/mac/Documents/Project/shadowsocks/ShadowWeb/encrypt.h \
+  OpenSSL-for-iPhone/include/openssl/evp.h \
+  OpenSSL-for-iPhone/include/openssl/opensslconf.h \
+  OpenSSL-for-iPhone/include/openssl/ossl_typ.h \
+  OpenSSL-for-iPhone/include/openssl/e_os2.h \
+  OpenSSL-for-iPhone/include/openssl/symhacks.h \
+  OpenSSL-for-iPhone/include/openssl/bio.h \
+  OpenSSL-for-iPhone/include/openssl/crypto.h \
+  OpenSSL-for-iPhone/include/openssl/stack.h \
+  OpenSSL-for-iPhone/include/openssl/safestack.h \
+  OpenSSL-for-iPhone/include/openssl/opensslv.h \
+  OpenSSL-for-iPhone/include/openssl/objects.h \
+  OpenSSL-for-iPhone/include/openssl/obj_mac.h \
+  OpenSSL-for-iPhone/include/openssl/asn1.h \
+  OpenSSL-for-iPhone/include/openssl/bn.h
